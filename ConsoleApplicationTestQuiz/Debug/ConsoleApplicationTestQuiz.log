@@ -1,0 +1,8 @@
+﻿  Answer.cpp
+C:\Users\dinara\source\repos\ConsoleApplicationTestQuiz\ConsoleApplicationTestQuiz\Answer.cpp(7,29): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplicationTestQuiz.cpp
+  Question.cpp
+  TestBuild.cpp
+  Generating Code...
+C:\Users\dinara\source\repos\ConsoleApplicationTestQuiz\ConsoleApplicationTestQuiz\Answer.cpp(12,30): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplicationTestQuiz.vcxproj -> C:\Users\dinara\source\repos\ConsoleApplicationTestQuiz\Debug\ConsoleApplicationTestQuiz.exe
